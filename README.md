@@ -1,4 +1,3 @@
-# Simple-interest-Calculator-
 # Simple Interest Calculator
 
 # Input values
